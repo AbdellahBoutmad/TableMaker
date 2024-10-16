@@ -1,4 +1,4 @@
-HTMLTable
+## HTMLTable
 HTMLTable is a Python class for generating HTML tables. This simple class allows you to define table headers, add rows, and generate the corresponding HTML table code.
 
 Features
